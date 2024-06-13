@@ -90,6 +90,23 @@
 	if(istype(gathered_ore) && gathered_ore.refined_type)
 		points += gathered_ore.points * point_upgrade * gathered_ore.amount
 
+// NOVA EDIT ADDITION START: ORM Parts upgrade
+// T1 - Points: 1 Ores: 0.85x
+// T2 - Points: 1.1 Ores: 1.1x
+// T3 - Points: 1.2 Ores: 1.35x
+// T4 - Points: 1.3 Ores: 1.6x
+/obj/machinery/mineral/ore_redemption/RefreshParts()
+	SHOULD_CALL_PARENT(FALSE)
+	var/point_part_upgrade = 1
+	var/ore_part_upgrade = 1
+	for(var/datum/stock_part/matter_bin/matter_bin in component_parts)
+		point_part_upgrade = 0.90 + (0.10 * matter_bin.tier)
+	for(var/datum/stock_part/micro_laser/micro_laser in component_parts)
+		ore_part_upgrade = 0.60 + (0.25 * micro_laser.tier)
+	point_upgrade = point_part_upgrade
+	ore_multiplier = round(ore_part_upgrade, 0.01)
+// NOVE EDIT ADDITION END
+
 /// Returns the amount of a specific alloy design, based on the accessible materials
 /obj/machinery/mineral/ore_redemption/proc/can_smelt_alloy(datum/design/D)
 	var/datum/component/material_container/mat_container = materials.mat_container
