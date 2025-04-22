@@ -1,0 +1,4880 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aa" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ab" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/table/rolling,
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ao" = (
+/obj/machinery/gibber,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 10
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"aq" = (
+/obj/structure/kitchenspike,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"aD" = (
+/obj/machinery/biogenerator/fullupgrade,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 6
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"aI" = (
+/obj/structure/table/reinforced,
+/obj/machinery/smartfridge/drying,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"aW" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 4
+	},
+/obj/structure/table/reinforced,
+/obj/machinery/chem_dispenser/drinks/fullupgrade{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"bd" = (
+/obj/structure/table/reinforced,
+/obj/machinery/reagentgrinder{
+	pixel_x = -6;
+	pixel_y = 9
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"bt" = (
+/obj/machinery/oven/range,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"bA" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown/corner,
+/obj/effect/turf_decal/siding/brown/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"bC" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"bE" = (
+/obj/effect/turf_decal/siding/purple{
+	dir = 1
+	},
+/turf/open/floor/iron/white/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"bJ" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/dark/side{
+	dir = 1
+	},
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"bT" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green,
+/obj/machinery/smartfridge,
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"cv" = (
+/obj/machinery/oven/range,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"cw" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/vending/wardrobe/chef_wardrobe,
+/obj/effect/turf_decal/siding/brown{
+	dir = 6
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"cB" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"cJ" = (
+/obj/machinery/smartfridge,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 9
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"cQ" = (
+/obj/machinery/holopad,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/dark/side{
+	dir = 8
+	},
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"cX" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/sink/kitchen/directional/west,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"cY" = (
+/obj/machinery/vending/dinnerware,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 6
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"dq" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/hydroponics/constructable/fullupgrade,
+/obj/machinery/door/window/survival_pod/left/directional/north,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 6
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"du" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/effect/turf_decal/siding/dark_green,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"dw" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"dA" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 8
+	},
+/obj/structure/table/reinforced,
+/obj/machinery/chem_dispenser/drinks/beer/fullupgrade{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"dB" = (
+/obj/structure/reagent_dispensers/cooking_oil,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"dF" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/table/reinforced,
+/turf/open/floor/carpet/neon/simple/cyan,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"dQ" = (
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/effect/turf_decal/siding/brown{
+	dir = 5
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"dR" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/table/wood/fancy/cyan,
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"dT" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/obj/structure/table/reinforced,
+/obj/machinery/chem_dispenser/drinks/beer/fullupgrade{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"dY" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"dZ" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/north,
+/obj/effect/turf_decal/siding/purple{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ee" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/north,
+/obj/effect/turf_decal/siding/brown{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ek" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"es" = (
+/obj/structure/closet/secure_closet/freezer/meat,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 10
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"eG" = (
+/obj/structure/table/reinforced,
+/obj/machinery/smartfridge/drying,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"eN" = (
+/obj/effect/turf_decal/vg_decals/numbers/four,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"eY" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/brown,
+/turf/open/floor/iron/white/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"fc" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/storage/box/beakers/bluespace,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"fl" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"fz" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/storage/box/beakers/bluespace,
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"fA" = (
+/obj/effect/turf_decal/siding/purple/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/brown/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"fG" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/obj/machinery/door/airlock/public,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"fJ" = (
+/obj/structure/closet/secure_closet/freezer/meat,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 5
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"fO" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/tile/dark_blue/half{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"fP" = (
+/obj/effect/turf_decal/siding/purple/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"fS" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/south,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 6
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"fZ" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/chem_master/condimaster{
+	name = "CondiMaster Neo"
+	},
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"gb" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/chem_master/condimaster{
+	name = "CondiMaster Neo"
+	},
+/obj/effect/turf_decal/siding/brown,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"gi" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/chair/stool/bar/directional/south,
+/obj/effect/turf_decal/tile/brown/half,
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"gj" = (
+/obj/effect/turf_decal/vg_decals/numbers/two,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"gq" = (
+/obj/effect/turf_decal/vg_decals/numbers/one,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"gu" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/vg_decals/numbers/one,
+/turf/open/floor/glass/reinforced/plasma,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"gW" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/table/reinforced,
+/obj/item/radio/entertainment/microphone/physical,
+/turf/open/floor/carpet/neon/simple/cyan,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"hg" = (
+/obj/structure/kitchenspike,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 9
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"hN" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/hydroponics/constructable/fullupgrade,
+/obj/machinery/door/window/survival_pod/left/directional/north,
+/obj/effect/turf_decal/siding/purple{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"hT" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/dark/side{
+	dir = 8
+	},
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"hV" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/seed_extractor,
+/obj/machinery/camera/xray/directional/north,
+/obj/effect/turf_decal/siding/brown{
+	dir = 5
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"hW" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ik" = (
+/obj/effect/turf_decal/caution/stand_clear/red{
+	dir = 1
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/iron/cafeteria,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"im" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/quantumpad,
+/turf/open/floor/carpet/neon/simple/cyan,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"iS" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/door/airlock/vault{
+	name = "Studio"
+	},
+/obj/effect/mapping_helpers/airlock/access/all/cent_com,
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"iY" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ji" = (
+/obj/effect/turf_decal/vg_decals/numbers/three,
+/turf/open/floor/glass/reinforced/plasma,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"jp" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/hydroponics/constructable/fullupgrade,
+/obj/machinery/door/window/survival_pod/left/directional/north,
+/obj/effect/turf_decal/siding/brown{
+	dir = 10
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"js" = (
+/obj/machinery/door/airlock/public,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"jP" = (
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/brown,
+/turf/open/floor/iron/white/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"jQ" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 10
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"jR" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 5
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"jS" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue/corner,
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"jU" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/sink/kitchen/directional/west,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"jV" = (
+/obj/effect/turf_decal/loading_area/red{
+	dir = 1
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"kC" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/storage/bag/tray{
+	pixel_y = 9;
+	pixel_x = -2
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"kE" = (
+/obj/effect/turf_decal/caution/stand_clear/red,
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/iron/cafeteria,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"kG" = (
+/obj/structure/kitchenspike,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 5
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"kN" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/turf/open/floor/glass/reinforced/plasma,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"kZ" = (
+/obj/machinery/biogenerator/fullupgrade,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 5
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"lf" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"lg" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/hydroponics/constructable/fullupgrade,
+/obj/machinery/door/window/survival_pod/left/directional/north,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 10
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"lq" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/seed_extractor,
+/obj/machinery/camera/xray/directional/north,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 9
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"lF" = (
+/obj/structure/closet/secure_closet/freezer/meat,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 9
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"lL" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"lO" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 6
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ma" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/item/broadcast_camera/film_studio,
+/obj/structure/table/reinforced,
+/turf/open/floor/carpet/neon/simple/cyan,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"mb" = (
+/obj/structure/closet/secure_closet/freezer/meat,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ms" = (
+/obj/structure/table/reinforced,
+/obj/machinery/reagentgrinder{
+	pixel_x = -6;
+	pixel_y = 9
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"mB" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/tile/purple/half,
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"mY" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple/corner,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"no" = (
+/obj/effect/turf_decal/loading_area/red,
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/north,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ns" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/hydroponics/constructable/fullupgrade,
+/obj/machinery/door/window/survival_pod/left/directional/north,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"nz" = (
+/obj/structure/table/reinforced,
+/obj/machinery/microwave{
+	pixel_y = 7
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/south,
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"nM" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/holopad,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"nW" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"nX" = (
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ob" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/carpet/black,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"oe" = (
+/obj/machinery/smartfridge/drying,
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ou" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"oH" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"oL" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/dark/corner,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"oQ" = (
+/obj/structure/table/wood/fancy/cyan,
+/turf/open/floor/glass/reinforced/plasma,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"oV" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"pc" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 4
+	},
+/obj/machinery/door/airlock/public,
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"pk" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"pJ" = (
+/obj/machinery/griddle,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"pO" = (
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"pQ" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"pR" = (
+/obj/structure/kitchenspike,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 10
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"qb" = (
+/obj/structure/table/reinforced,
+/obj/machinery/reagentgrinder{
+	pixel_x = -6;
+	pixel_y = 9
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ql" = (
+/obj/machinery/oven/range,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"qm" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple/corner,
+/obj/effect/turf_decal/siding/purple/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"qM" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/table/rolling,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"rd" = (
+/obj/structure/table/reinforced,
+/obj/machinery/processor{
+	pixel_x = 1;
+	pixel_y = 7
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"rs" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/obj/machinery/door/airlock/public,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"rv" = (
+/obj/machinery/holopad,
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/chair{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"rC" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"rF" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/table/reinforced,
+/obj/item/gun/energy/floragun,
+/obj/item/gun/energy/floragun,
+/obj/item/gun/energy/floragun,
+/obj/item/geneshears,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"rI" = (
+/obj/machinery/smartfridge,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 5
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"sd" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/storage/box/beakers/bluespace,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"so" = (
+/obj/machinery/deepfryer,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ss" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/obj/structure/table/reinforced,
+/obj/machinery/chem_dispenser/drinks/fullupgrade{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"sC" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"sK" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue,
+/obj/machinery/smartfridge,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"sR" = (
+/obj/machinery/holopad,
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"sS" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark_green/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"sZ" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"tE" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/chair{
+	dir = 1
+	},
+/turf/open/floor/glass/reinforced/plasma,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"tN" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 1
+	},
+/turf/open/floor/iron/white/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"tX" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"uh" = (
+/obj/machinery/vending/dinnerware,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 9
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ul" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/vending/hydroseeds,
+/obj/effect/turf_decal/siding/purple{
+	dir = 5
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"um" = (
+/obj/structure/table/reinforced,
+/obj/machinery/processor{
+	pixel_x = 1;
+	pixel_y = 7
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"us" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/knife/butcher{
+	pixel_x = 4;
+	pixel_y = -6
+	},
+/obj/item/kitchen/rollingpin{
+	pixel_x = -3
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"uG" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"uI" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 4
+	},
+/obj/structure/table/reinforced,
+/obj/machinery/chem_dispenser/drinks/beer/fullupgrade{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"uM" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"uP" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"uQ" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/obj/machinery/vending/boozeomat,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"uS" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"uT" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/dark/corner{
+	dir = 4
+	},
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"va" = (
+/obj/effect/turf_decal/siding/purple/corner,
+/obj/effect/turf_decal/siding/brown/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"vm" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/glass/reinforced/plasma,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"vn" = (
+/obj/structure/table/reinforced,
+/obj/machinery/microwave{
+	pixel_y = 7
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/north,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"vx" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/tile/dark_green/half{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"vF" = (
+/obj/structure/table/reinforced,
+/obj/machinery/microwave{
+	pixel_y = 7
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"vH" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 8
+	},
+/obj/structure/table/reinforced,
+/obj/machinery/chem_dispenser/drinks/beer/fullupgrade{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"vP" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/vending/hydronutrients,
+/obj/effect/turf_decal/siding/brown{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"vU" = (
+/obj/machinery/door/airlock/public,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"vX" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/brown/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"wa" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/obj/machinery/vending/boozeomat,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"wd" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/vending/hydroseeds,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 5
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"wr" = (
+/obj/structure/closet/secure_closet/freezer/meat,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 6
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"wI" = (
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"xa" = (
+/obj/structure/kitchenspike,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"xb" = (
+/obj/structure/closet/secure_closet/freezer/meat,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"xd" = (
+/obj/machinery/door/airlock/public,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"xB" = (
+/obj/structure/closet/secure_closet/freezer/meat,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"xD" = (
+/turf/template_noop,
+/area/template_noop)
+"xP" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/door/airlock/vault{
+	name = "Studio"
+	},
+/turf/open/floor/carpet/black,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"xZ" = (
+/obj/structure/table/reinforced,
+/obj/machinery/microwave{
+	pixel_y = 7
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"yh" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/reagent_dispensers/watertank/high,
+/obj/effect/turf_decal/siding/purple{
+	dir = 10
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ys" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/vending/hydroseeds,
+/obj/effect/turf_decal/siding/brown{
+	dir = 9
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"yy" = (
+/obj/machinery/holopad,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"yT" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/chem_master/condimaster{
+	name = "CondiMaster Neo"
+	},
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"zc" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/purple/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ze" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/table/rolling,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"zh" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/storage/box/beakers/bluespace,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"zq" = (
+/obj/structure/table/reinforced,
+/obj/machinery/microwave{
+	pixel_y = 7
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"zI" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/south,
+/obj/effect/turf_decal/siding/purple{
+	dir = 10
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"zK" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/south,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 10
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"zL" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/hydroponics/constructable/fullupgrade,
+/obj/machinery/door/window/survival_pod/left/directional/north,
+/obj/effect/turf_decal/siding/purple{
+	dir = 6
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"zN" = (
+/obj/machinery/gibber,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 9
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"zU" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"zV" = (
+/obj/effect/turf_decal/siding/brown{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/iron/white/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Af" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/vending/hydronutrients,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ag" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 10
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Aj" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/south,
+/obj/effect/turf_decal/siding/brown{
+	dir = 6
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"An" = (
+/obj/machinery/holopad,
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/west,
+/turf/open/floor/iron/dark/side{
+	dir = 4
+	},
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ao" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/table/reinforced,
+/obj/item/gun/energy/floragun,
+/obj/item/gun/energy/floragun,
+/obj/item/gun/energy/floragun,
+/obj/item/geneshears,
+/obj/effect/turf_decal/siding/purple{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"AG" = (
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"AI" = (
+/obj/structure/plasticflaps/kitchen,
+/obj/machinery/door/airlock/freezer{
+	name = "Freezer"
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark_green,
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"AU" = (
+/obj/effect/turf_decal/vg_decals/numbers/three,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"AX" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/chair{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ba" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/north,
+/turf/open/floor/iron/dark/corner{
+	dir = 8
+	},
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Bb" = (
+/obj/effect/turf_decal/caution/stand_clear/red,
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/door/airlock/multi_tile/public/glass,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/iron/cafeteria,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Bq" = (
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/brown/corner,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Bs" = (
+/obj/machinery/deepfryer,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Bt" = (
+/obj/machinery/biogenerator/fullupgrade,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"BG" = (
+/obj/machinery/deepfryer,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"BN" = (
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"BT" = (
+/obj/machinery/biogenerator/fullupgrade,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 9
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"BY" = (
+/obj/item/reagent_containers/cup/glass/trophy/silver_cup{
+	name = "Plasteel Chef Second Place";
+	pixel_y = 12
+	},
+/obj/structure/table/reinforced/plastitaniumglass,
+/turf/open/floor/glass/reinforced/plasma,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ca" = (
+/obj/structure/table/reinforced/plastitaniumglass,
+/obj/structure/displaycase/forsale/kitchen{
+	pixel_y = 8
+	},
+/turf/open/floor/glass/reinforced,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ce" = (
+/obj/machinery/computer/order_console/cook,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Cq" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/vending/hydronutrients,
+/obj/effect/turf_decal/siding/purple{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ct" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/dark_green/corner,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"CM" = (
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/effect/turf_decal/siding/brown{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Da" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 1
+	},
+/obj/machinery/smartfridge,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Dc" = (
+/obj/machinery/oven/range,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Dh" = (
+/obj/structure/table/reinforced,
+/obj/machinery/microwave{
+	pixel_y = 7
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/south,
+/obj/effect/turf_decal/siding/brown,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Dm" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/chair/stool/bar/directional/north,
+/obj/effect/turf_decal/tile/dark_green/half{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Dx" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"DA" = (
+/obj/structure/closet/secure_closet/freezer/meat,
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/south,
+/obj/effect/turf_decal/siding/brown,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"DI" = (
+/obj/machinery/door/airlock/public,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"DN" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"DR" = (
+/obj/structure/table/reinforced,
+/obj/machinery/reagentgrinder{
+	pixel_x = -6;
+	pixel_y = 9
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"DZ" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ec" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/table/reinforced/plastitaniumglass,
+/obj/item/reagent_containers/cup/glass/trophy/gold_cup{
+	name = "Plasteel Chef First Place";
+	pixel_y = 14
+	},
+/turf/open/floor/glass/reinforced/plasma,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Eg" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ek" = (
+/obj/structure/table/reinforced,
+/obj/machinery/smartfridge/drying,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ew" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/tile/brown/half,
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"EB" = (
+/obj/machinery/biogenerator/fullupgrade,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"EC" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/storage/bag/tray{
+	pixel_y = 9;
+	pixel_x = -2
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ES" = (
+/obj/structure/reagent_dispensers/cooking_oil,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Fi" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ft" = (
+/obj/effect/turf_decal/vg_decals/numbers/two,
+/turf/open/floor/glass/reinforced/plasma,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Fz" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/seed_extractor,
+/obj/machinery/camera/xray/directional/north,
+/obj/effect/turf_decal/siding/purple{
+	dir = 9
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"FA" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"FC" = (
+/obj/structure/kitchenspike,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"FE" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green/inner_corner,
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"FI" = (
+/obj/machinery/oven/range,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"FO" = (
+/obj/effect/turf_decal/siding/purple/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"FP" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 1
+	},
+/obj/machinery/smartfridge,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ge" = (
+/obj/machinery/computer/order_console/cook{
+	dir = 1
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green,
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Gs" = (
+/obj/machinery/biogenerator/fullupgrade,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Gw" = (
+/obj/structure/closet/secure_closet/freezer/meat,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"GG" = (
+/obj/machinery/gibber,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 6
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"GH" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/storage/bag/plants,
+/obj/item/storage/bag/plants,
+/obj/item/storage/bag/plants,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"GI" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/chair{
+	dir = 8
+	},
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"GN" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/table/reinforced,
+/obj/item/gun/energy/floragun,
+/obj/item/gun/energy/floragun,
+/obj/item/gun/energy/floragun,
+/obj/item/geneshears,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"GR" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/hydroponics/constructable/fullupgrade,
+/obj/machinery/door/window/survival_pod/left/directional/north,
+/obj/effect/turf_decal/siding/brown{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ht" = (
+/obj/machinery/holopad,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Hv" = (
+/obj/machinery/biogenerator/fullupgrade,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Hw" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/south,
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"HA" = (
+/obj/structure/table/reinforced,
+/obj/machinery/microwave{
+	pixel_y = 7
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"HT" = (
+/obj/effect/turf_decal/caution/stand_clear/red{
+	dir = 1
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/door/airlock/multi_tile/public/glass,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/iron/cafeteria,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"If" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/sink/kitchen/directional/east,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ih" = (
+/obj/machinery/computer/order_console/cook{
+	dir = 1
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"IK" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 8
+	},
+/obj/structure/table/reinforced,
+/obj/machinery/chem_dispenser/drinks/fullupgrade{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ji" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/east,
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Jl" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"JB" = (
+/obj/machinery/computer/order_console/cook,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"JD" = (
+/obj/machinery/griddle,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"JM" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"JN" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"JO" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/iron/white/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Kf" = (
+/obj/machinery/holopad,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ky" = (
+/obj/machinery/greenscreen_camera{
+	dir = 8;
+	name = "Chef-Caster"
+	},
+/turf/open/floor/glass/reinforced/plasma,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"KD" = (
+/obj/machinery/deepfryer,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"KF" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"KU" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/storage/bag/tray{
+	pixel_y = 9;
+	pixel_x = -2
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Lc" = (
+/obj/machinery/gibber,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 5
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Le" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/reagent_dispensers/watertank/high,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 9
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Lj" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/storage/bag/tray{
+	pixel_y = 9;
+	pixel_x = -2
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Lq" = (
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/brown/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"LB" = (
+/obj/effect/turf_decal/siding/dark_green/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"LI" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/vending/hydroseeds,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 9
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"LO" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/table/rolling,
+/obj/effect/turf_decal/siding/brown,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"LZ" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/chair{
+	dir = 1
+	},
+/turf/open/floor/glass/reinforced,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ma" = (
+/obj/structure/kitchenspike,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Mi" = (
+/obj/structure/table/reinforced/plastitaniumglass,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/glass/reinforced,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Mq" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/dark/side{
+	dir = 4
+	},
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Mu" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/vending/wardrobe/chef_wardrobe,
+/obj/effect/turf_decal/siding/brown{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ME" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 9
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Na" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 5
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Nb" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Nx" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue/corner,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ny" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/effect/turf_decal/siding/dark_green/inner_corner,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"NN" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"NO" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green,
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"OB" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"OC" = (
+/obj/structure/table/reinforced,
+/obj/machinery/smartfridge/drying,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"OG" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"OQ" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/hydroponics/constructable/fullupgrade,
+/obj/machinery/door/window/survival_pod/left/directional/north,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"OT" = (
+/obj/machinery/vending/dinnerware,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 5
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Pg" = (
+/obj/machinery/vending/dinnerware,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 10
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Pu" = (
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/effect/turf_decal/siding/purple{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Pv" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/storage/bag/plants,
+/obj/item/storage/bag/plants,
+/obj/item/storage/bag/plants,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Pw" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/chair/stool/bar/directional/north,
+/obj/effect/turf_decal/tile/dark_blue/half{
+	dir = 1
+	},
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"PI" = (
+/obj/machinery/door/airlock/freezer{
+	name = "Freezer"
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/plasticflaps/kitchen,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark_blue,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"PT" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 8
+	},
+/obj/structure/table/reinforced,
+/obj/machinery/chem_dispenser/drinks/fullupgrade{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Qp" = (
+/obj/structure/reagent_dispensers/cooking_oil,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Qr" = (
+/obj/machinery/smartfridge,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 10
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"QA" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/vending/hydronutrients,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"QC" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/table/reinforced,
+/obj/item/gun/energy/floragun,
+/obj/item/gun/energy/floragun,
+/obj/item/gun/energy/floragun,
+/obj/item/geneshears,
+/obj/effect/turf_decal/siding/brown{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"QJ" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/storage/bag/plants,
+/obj/item/storage/bag/plants,
+/obj/item/storage/bag/plants,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"QK" = (
+/obj/machinery/smartfridge,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 6
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"QS" = (
+/obj/structure/table/reinforced/plastitaniumglass,
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/glass/reinforced,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"QV" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/dark/corner{
+	dir = 1
+	},
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"QW" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ro" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green/corner,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Rz" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 8
+	},
+/obj/machinery/door/airlock/public,
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"RL" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Sy" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/closed/indestructible/riveted/hierophant,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Sz" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/south,
+/turf/open/floor/iron/dark/side{
+	dir = 1
+	},
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"SS" = (
+/turf/closed/indestructible/riveted/hierophant,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Tl" = (
+/obj/structure/table/reinforced,
+/obj/machinery/processor{
+	pixel_x = 1;
+	pixel_y = 7
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Tm" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/glass/reinforced,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"To" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"TM" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/smartfridge,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/iron/cafeteria,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"TP" = (
+/obj/item/reagent_containers/cup/glass/trophy/bronze_cup{
+	name = "Plasteel Chef Third Place";
+	pixel_y = 15
+	},
+/obj/structure/table/reinforced/plastitaniumglass,
+/turf/open/floor/glass/reinforced/plasma,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"TQ" = (
+/obj/machinery/deepfryer,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Ud" = (
+/turf/open/floor/glass/reinforced/plasma,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Uf" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark_blue,
+/turf/open/floor/iron/white/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Un" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/chair/stool/bar/directional/south,
+/obj/effect/turf_decal/tile/purple/half,
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Uq" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/seed_extractor,
+/obj/machinery/camera/xray/directional/north,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 5
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Uy" = (
+/obj/structure/kitchenspike,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 6
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"UW" = (
+/obj/structure/plasticflaps/kitchen,
+/obj/machinery/door/airlock/freezer{
+	name = "Freezer"
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown,
+/obj/effect/turf_decal/siding/brown{
+	dir = 1
+	},
+/turf/open/floor/iron/cafeteria,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"UX" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/door/airlock/hydroponics/glass{
+	name = "Hydroponics"
+	},
+/turf/open/floor/iron/dark,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"UZ" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 10
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Vf" = (
+/obj/machinery/griddle,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Vg" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark_blue/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"VA" = (
+/obj/machinery/biogenerator/fullupgrade,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 10
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"VJ" = (
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark_blue,
+/turf/open/floor/iron/white/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"We" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/item/storage/fancy/egg_box,
+/obj/effect/turf_decal/siding/dark_blue,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Wf" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/dark/side,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Wg" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/vending/wardrobe/chef_wardrobe,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 5
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Wj" = (
+/obj/machinery/holopad,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Wq" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/vending/wardrobe/chef_wardrobe,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"WD" = (
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/effect/turf_decal/siding/purple{
+	dir = 9
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"WK" = (
+/obj/machinery/holopad,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"WQ" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/knife/butcher{
+	pixel_x = 4;
+	pixel_y = -6
+	},
+/obj/item/kitchen/rollingpin{
+	pixel_x = -3
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Xc" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Xe" = (
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/carpet/neon/simple/cyan,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Xj" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/north,
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Xo" = (
+/obj/machinery/griddle,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Xu" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/table/reinforced,
+/obj/item/stack/spacecash/c10000,
+/obj/item/stack/spacecash/c10000,
+/obj/item/storage/bag/plants,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Xw" = (
+/obj/structure/reagent_dispensers/cooking_oil,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"XF" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 9
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"XH" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"XM" = (
+/obj/effect/turf_decal/siding/dark_green/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/dark_blue/corner,
+/turf/open/floor/iron/dark/smooth_large,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"XX" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Yw" = (
+/obj/machinery/griddle,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/brown{
+	dir = 4
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"YH" = (
+/obj/structure/table/reinforced,
+/obj/machinery/microwave{
+	pixel_y = 7
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/machinery/camera/xray/directional/north,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/small,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"YQ" = (
+/obj/effect/light_emitter/thunderdome,
+/obj/structure/chair/wood/wings{
+	dir = 4
+	},
+/turf/open/floor/iron,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Zn" = (
+/obj/structure/plasticflaps/kitchen,
+/obj/machinery/door/airlock/freezer{
+	name = "Freezer"
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/purple{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/purple,
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Zu" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/item/knife/butcher{
+	pixel_x = 4;
+	pixel_y = -6
+	},
+/obj/item/kitchen/rollingpin{
+	pixel_x = -3
+	},
+/turf/open/floor/iron/kitchen,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"Zx" = (
+/obj/structure/table/reinforced,
+/obj/machinery/processor{
+	pixel_x = 1;
+	pixel_y = 7
+	},
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_green{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/herringbone,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ZH" = (
+/obj/machinery/smartfridge/drying,
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/obj/effect/turf_decal/siding/dark_blue{
+	dir = 1
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+"ZI" = (
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/thunderdome,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/ruin/powered/biodome{
+	name = "Chef Arena Barge"
+	})
+
+(1,1,1) = {"
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+"}
+(2,1,1) = {"
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+"}
+(3,1,1) = {"
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+SS
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+"}
+(4,1,1) = {"
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+Sy
+oL
+Mq
+Mq
+Mq
+Mq
+Mq
+An
+Mq
+Mq
+Mq
+Mq
+uT
+SS
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+"}
+(5,1,1) = {"
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+Sy
+Wf
+Ro
+gq
+XM
+gj
+Bq
+AU
+va
+eN
+FO
+OG
+bJ
+SS
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+xD
+"}
+(6,1,1) = {"
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Wf
+lL
+Ca
+Uf
+Ca
+eY
+Ca
+JO
+Ca
+tN
+OG
+bJ
+SS
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+"}
+(7,1,1) = {"
+Sy
+LI
+GN
+QA
+ns
+ns
+ns
+ns
+ns
+ns
+ns
+ns
+lg
+Sy
+Wf
+lL
+Ca
+VJ
+Ca
+jP
+Ca
+zV
+Ca
+bE
+OG
+bJ
+SS
+ys
+QC
+vP
+GR
+GR
+GR
+GR
+GR
+GR
+GR
+GR
+jp
+Sy
+"}
+(8,1,1) = {"
+Sy
+Uq
+Eg
+Eg
+Eg
+Eg
+Eg
+Eg
+Eg
+Eg
+Eg
+Eg
+fS
+Sy
+Wf
+lL
+Ca
+Uf
+Ca
+eY
+Ca
+JO
+Ca
+tN
+OG
+Sz
+SS
+hV
+NN
+NN
+NN
+NN
+NN
+NN
+NN
+NN
+NN
+NN
+Aj
+Sy
+"}
+(9,1,1) = {"
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+UX
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Wf
+lL
+Ca
+VJ
+Ca
+jP
+Ca
+zV
+Ca
+bE
+OG
+bJ
+SS
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+UX
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+"}
+(10,1,1) = {"
+Sy
+lF
+oV
+ES
+ao
+Sy
+XF
+cv
+ql
+cv
+vH
+PT
+Qr
+Sy
+Wf
+lL
+Ca
+Uf
+Ca
+eY
+Ca
+JO
+Ca
+tN
+OG
+bJ
+SS
+cJ
+IK
+dA
+FI
+FI
+FI
+jQ
+Sy
+zN
+dB
+rC
+es
+Sy
+"}
+(11,1,1) = {"
+Sy
+mb
+sC
+sC
+uP
+Sy
+DZ
+bC
+DN
+bC
+DN
+bC
+bT
+Sy
+Wf
+JM
+gq
+LB
+gj
+Lq
+AU
+fA
+eN
+fP
+OG
+bJ
+SS
+Da
+bC
+bC
+bC
+bC
+bC
+iY
+Sy
+nW
+sC
+sC
+Gw
+Sy
+"}
+(12,1,1) = {"
+Sy
+mb
+sC
+sC
+pO
+Sy
+wa
+DN
+bC
+DN
+bC
+DN
+ek
+Sy
+Ba
+hT
+hT
+hT
+hT
+hT
+cQ
+hT
+hT
+hT
+hT
+QV
+SS
+ee
+bC
+bC
+bC
+bC
+bC
+iY
+Sy
+AG
+sC
+sC
+Gw
+Sy
+"}
+(13,1,1) = {"
+Sy
+mb
+sC
+sC
+pO
+Sy
+zq
+bC
+QW
+uG
+QW
+WQ
+NO
+QS
+Dm
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+gi
+QS
+FA
+uG
+uG
+uG
+WQ
+bC
+HA
+Sy
+AG
+sC
+sC
+DA
+Sy
+"}
+(14,1,1) = {"
+Sy
+mb
+sC
+sC
+pO
+Sy
+YH
+DN
+uG
+Lj
+KU
+QW
+ek
+QS
+Dm
+lf
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+lf
+gi
+QS
+FA
+uG
+KU
+KU
+uG
+bC
+Dh
+Sy
+AG
+sC
+sC
+Gw
+Sy
+"}
+(15,1,1) = {"
+Sy
+aq
+sC
+sC
+du
+Sy
+Zx
+bC
+yy
+bC
+DN
+If
+NO
+QS
+Dm
+lf
+Tm
+Kf
+dR
+YQ
+YQ
+dR
+lf
+Tm
+lf
+gi
+QS
+FA
+If
+bC
+bC
+WK
+bC
+Tl
+Sy
+CM
+sC
+sC
+FC
+Sy
+"}
+(16,1,1) = {"
+Sy
+kG
+uM
+Ct
+Ny
+Sy
+qb
+DN
+bC
+DN
+bC
+DN
+ek
+QS
+Dm
+lf
+Tm
+lf
+oQ
+oQ
+oQ
+oQ
+lf
+Tm
+lf
+gi
+QS
+FA
+bC
+bC
+bC
+bC
+bC
+ms
+Sy
+dQ
+bA
+KF
+Uy
+Sy
+"}
+(17,1,1) = {"
+Sy
+Sy
+Sy
+AI
+Sy
+Sy
+aI
+bC
+fz
+sd
+QW
+uG
+NO
+QS
+Dm
+lf
+Tm
+BN
+vm
+vm
+vm
+vm
+BN
+Tm
+lf
+gi
+QS
+FA
+uG
+uG
+sd
+sd
+bC
+OC
+Sy
+Sy
+UW
+Sy
+Sy
+Sy
+"}
+(18,1,1) = {"
+Sy
+BT
+Gs
+sS
+Pg
+Sy
+oe
+DN
+QJ
+QW
+uG
+QW
+ek
+QS
+Dm
+lf
+Tm
+lf
+Ud
+Ky
+Ud
+Ud
+lf
+Tm
+lf
+gi
+QS
+FA
+uG
+uG
+uG
+QJ
+bC
+OC
+Sy
+uh
+vX
+Bt
+VA
+Sy
+"}
+(19,1,1) = {"
+Sy
+DZ
+DN
+DN
+Ge
+Sy
+fZ
+bC
+DN
+bC
+DN
+bC
+NO
+Bb
+vx
+lf
+Tm
+GI
+GI
+GI
+GI
+GI
+rv
+Tm
+lf
+Ew
+HT
+FA
+bC
+bC
+bC
+bC
+bC
+gb
+Sy
+Ce
+bC
+bC
+iY
+Sy
+"}
+(20,1,1) = {"
+Sy
+ze
+DN
+DN
+Dx
+Rz
+Nb
+DN
+bC
+DN
+bC
+DN
+ek
+kE
+vx
+lf
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+lf
+Ew
+ik
+FA
+bC
+bC
+bC
+bC
+bC
+JN
+js
+ou
+bC
+bC
+LO
+Sy
+"}
+(21,1,1) = {"
+Sy
+Wg
+Wq
+RL
+RL
+pc
+RL
+KD
+Bs
+Vf
+Xo
+Vf
+FE
+TM
+vx
+lf
+lf
+GI
+GI
+GI
+GI
+GI
+GI
+lf
+lf
+Ew
+TM
+Na
+Yw
+Yw
+Yw
+TQ
+TQ
+tX
+xd
+tX
+tX
+Mu
+cw
+Sy
+"}
+(22,1,1) = {"
+Sy
+Xu
+Xu
+nM
+jV
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Xj
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+Hw
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+no
+sR
+Xu
+Xu
+Sy
+"}
+(23,1,1) = {"
+Sy
+Le
+uS
+uS
+uS
+fG
+uS
+BG
+BG
+JD
+JD
+JD
+UZ
+TM
+fO
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+lf
+mB
+TM
+ME
+pJ
+pJ
+pJ
+so
+so
+hW
+DI
+hW
+hW
+hW
+yh
+Sy
+"}
+(24,1,1) = {"
+Sy
+qM
+Xc
+Xc
+Nx
+rs
+zU
+Xc
+Xc
+Xc
+Xc
+Xc
+fl
+Bb
+fO
+lf
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+lf
+mB
+HT
+pQ
+To
+To
+To
+To
+To
+mY
+vU
+pk
+To
+To
+ab
+Sy
+"}
+(25,1,1) = {"
+Sy
+oH
+Xc
+Xc
+Ih
+Sy
+oH
+Xc
+Xc
+Xc
+Xc
+Xc
+fl
+kE
+fO
+lf
+Tm
+lf
+lf
+lf
+lf
+AX
+Kf
+LZ
+lf
+mB
+ik
+pQ
+To
+To
+To
+To
+To
+yT
+Sy
+JB
+To
+To
+XH
+Sy
+"}
+(26,1,1) = {"
+Sy
+kZ
+EB
+jS
+cY
+Sy
+eG
+Xc
+GH
+ZI
+ZI
+ZI
+fl
+QS
+Pw
+lf
+Tm
+lf
+BY
+Ft
+Ud
+kN
+lf
+LZ
+lf
+Un
+QS
+pQ
+OB
+OB
+OB
+Pv
+To
+Ek
+Sy
+OT
+qm
+Hv
+aD
+Sy
+"}
+(27,1,1) = {"
+Sy
+Sy
+Sy
+PI
+Sy
+Sy
+ZH
+Xc
+zh
+zh
+ZI
+ZI
+fl
+QS
+Pw
+lf
+Tm
+BN
+Ec
+gu
+vm
+tE
+BN
+LZ
+lf
+Un
+QS
+pQ
+OB
+OB
+fc
+fc
+To
+Ek
+Sy
+Sy
+Zn
+Sy
+Sy
+Sy
+"}
+(28,1,1) = {"
+Sy
+hg
+dw
+Vg
+Ag
+Sy
+bd
+Xc
+Xc
+Xc
+Xc
+Xc
+fl
+QS
+Pw
+lf
+Tm
+lf
+TP
+ji
+Ud
+kN
+lf
+LZ
+lf
+Un
+QS
+pQ
+To
+To
+To
+To
+To
+DR
+Sy
+WD
+zc
+aa
+pR
+Sy
+"}
+(29,1,1) = {"
+Sy
+xa
+sC
+sC
+We
+Sy
+um
+Xc
+Wj
+Xc
+Xc
+jU
+fl
+QS
+Pw
+lf
+Tm
+Kf
+lf
+lf
+lf
+AX
+lf
+LZ
+lf
+Un
+QS
+pQ
+cX
+To
+To
+Ht
+To
+rd
+Sy
+Pu
+sC
+sC
+Ma
+Sy
+"}
+(30,1,1) = {"
+Sy
+xB
+sC
+sC
+wI
+Sy
+xZ
+Xc
+ZI
+kC
+kC
+ZI
+fl
+QS
+Pw
+lf
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+lf
+Un
+QS
+pQ
+OB
+EC
+EC
+OB
+To
+nz
+Sy
+nX
+sC
+sC
+xb
+Sy
+"}
+(31,1,1) = {"
+Sy
+xB
+sC
+sC
+wI
+Sy
+vn
+Xc
+ZI
+ZI
+ZI
+us
+fl
+QS
+Pw
+lf
+Ji
+lf
+lf
+lf
+lf
+lf
+lf
+Ji
+lf
+Un
+Mi
+pQ
+OB
+OB
+OB
+Zu
+To
+vF
+Sy
+nX
+sC
+sC
+xb
+Sy
+"}
+(32,1,1) = {"
+Sy
+xB
+sC
+sC
+wI
+Sy
+uQ
+Xc
+Xc
+Xc
+Xc
+Xc
+fl
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+iS
+iS
+Sy
+Sy
+Sy
+Sy
+Sy
+SS
+dZ
+To
+To
+To
+To
+To
+XH
+Sy
+nX
+sC
+sC
+xb
+Sy
+"}
+(33,1,1) = {"
+Sy
+xB
+sC
+sC
+cB
+Sy
+oH
+Xc
+Xc
+Xc
+Xc
+Xc
+sK
+Sy
+Xe
+Xe
+xP
+Xe
+Xe
+Xe
+Xe
+Xe
+Xe
+xP
+Xe
+Xe
+SS
+FP
+To
+To
+To
+To
+To
+XH
+Sy
+sZ
+sC
+sC
+xb
+Sy
+"}
+(34,1,1) = {"
+Sy
+fJ
+XX
+Xw
+GG
+Sy
+jR
+bt
+bt
+bt
+dT
+ss
+QK
+Sy
+ma
+gW
+Sy
+dF
+ob
+ob
+ob
+ob
+dF
+Sy
+dF
+dF
+SS
+rI
+aW
+uI
+Dc
+Dc
+Dc
+lO
+Sy
+Lc
+Qp
+Fi
+wr
+Sy
+"}
+(35,1,1) = {"
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+UX
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+dF
+ob
+im
+Xe
+ob
+dF
+Sy
+Sy
+Sy
+SS
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+UX
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+"}
+(36,1,1) = {"
+Sy
+lq
+Jl
+Jl
+Jl
+Jl
+Jl
+Jl
+Jl
+Jl
+Jl
+Jl
+zK
+SS
+xD
+xD
+Sy
+dF
+ob
+ob
+ob
+ob
+dF
+Sy
+xD
+xD
+Sy
+Fz
+dY
+dY
+dY
+dY
+dY
+dY
+dY
+dY
+dY
+dY
+zI
+Sy
+"}
+(37,1,1) = {"
+Sy
+wd
+rF
+Af
+OQ
+OQ
+OQ
+OQ
+OQ
+OQ
+OQ
+OQ
+dq
+SS
+xD
+xD
+Sy
+dF
+Xe
+Xe
+Xe
+Xe
+dF
+Sy
+xD
+xD
+Sy
+ul
+Ao
+Cq
+hN
+hN
+hN
+hN
+hN
+hN
+hN
+hN
+zL
+Sy
+"}
+(38,1,1) = {"
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+SS
+xD
+xD
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+xD
+xD
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+Sy
+"}
