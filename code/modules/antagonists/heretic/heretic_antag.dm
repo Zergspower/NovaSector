@@ -642,17 +642,10 @@
 	if(length(objectives))
 		var/count = 1
 		for(var/datum/objective/objective as anything in objectives)
-			// NOVA EDIT START - No greentext
-			/*
 			if(!objective.check_completion())
 				succeeded = FALSE
 			parts += "<b>Objective #[count]</b>: [objective.explanation_text] [objective.get_roundend_success_suffix()]"
-			*/
-			parts += "<b>Objective #[count]</b>: [objective.explanation_text]"
-			// NOVA EDIT END - No greentext
 			count++
-	// NOVA EDIT START - No greentext
-	/*
 	if(feast_of_owls)
 		parts += span_greentext("Ascension Forsaken")
 	if(ascended)
@@ -663,8 +656,6 @@
 			parts += span_greentext("The heretic was successful, but did not ascend!")
 		else
 			parts += span_redtext("The heretic has failed.")
-	*/
-	// NOVA EDIT END - No greentext
 
 	parts += "<b>Knowledge Researched:</b> "
 
