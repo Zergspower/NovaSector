@@ -235,15 +235,12 @@ GLOBAL_LIST_INIT(achievements_unlocked, list())
 
 	CHECK_TICK
 
-	/* ///NOVA EDIT START
 	// Add AntagHUD to everyone, see who was really evil the whole time!
 	for(var/datum/atom_hud/alternate_appearance/basic/antagonist_hud/antagonist_hud in GLOB.active_alternate_appearances)
 		for(var/mob/player as anything in GLOB.player_list)
 			antagonist_hud.show_to(player)
 
 	CHECK_TICK
-	///NOVA EDIT END
-	*/
 
 	//Set news report and mode result
 	SSdynamic.set_round_result()
@@ -324,7 +321,7 @@ GLOBAL_LIST_INIT(achievements_unlocked, list())
 	CHECK_TICK
 
 	//Antagonists
-	parts += antag_report()
+	//parts += antag_report() //NOVA EDIT REMOVAL
 
 	parts += opfor_report() //NOVA EDIT ADDITION
 
